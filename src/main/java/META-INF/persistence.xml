@@ -12,6 +12,8 @@
 		<class>com.lti.entity.Song</class>
 		<class>com.lti.entity.Account</class>
 		<class>com.lti.entity.Transaction</class>
+		<class>com.lti.entity.Emp</class>
+		<class>com.lti.entity.Dept</class>
 		<properties>
 			<property name="javax.persistence.jdbc.driver" value="org.apache.derby.jdbc.ClientDriver" />
 			<property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/trainingdb" />
